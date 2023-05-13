@@ -24,7 +24,7 @@ implements KeyListener{
 		window.add(graphics);
 		
 		window.setTitle("SnakeGame");
-		window.setSize(width * dimension + 2, height * dimension + dimension + dimension + 4);
+		window.setSize(width * dimension + 2, height * dimension + dimension + 4);
 		window.setVisible(true);
 		window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	}
